@@ -1,4 +1,4 @@
-#№ shooter-di-rx
+## shooter-di-rx
 
 Небольшой Unity-проект, упор на UniRX и Zenject
 
